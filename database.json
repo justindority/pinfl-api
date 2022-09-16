@@ -100,8 +100,9 @@
       "game2Id": "GoEej-Mo1q0",
       "game3Id": "GR6do-MLBq4",
       "challengeDate": "2022-09-15",
-      "accepted": false,
-      "id": 5
+      "accepted": true,
+      "id": 5,
+      "completedChallenges": []
     },
     {
       "challengerId": 1,
@@ -124,6 +125,28 @@
       "challengeDate": "2022-09-23",
       "accepted": false,
       "id": 7
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 3,
+      "locationId": 10011,
+      "game1Id": "G4ODR-MDXEy",
+      "game2Id": "G5oEz-MQ7Zw",
+      "game3Id": "G5oEz-MQ7Zw",
+      "challengeDate": "2022-09-15",
+      "accepted": false,
+      "id": 8
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 3,
+      "locationId": 15037,
+      "game1Id": "G4do5-MjBp2",
+      "game2Id": "GRWvz-MP37P",
+      "game3Id": "Gr8xn-MKN66",
+      "challengeDate": "2022-09-17",
+      "accepted": false,
+      "id": 9
     }
   ],
   "completedChallenges": [
@@ -133,6 +156,13 @@
       "game2WinnerId": 1,
       "game3WinnerId": 1,
       "id": 1
+    },
+    {
+      "challengeId": 8,
+      "game1WinnerId": 3,
+      "game2WinnerId": 2,
+      "game3WinnerId": 3,
+      "id": 2
     }
   ],
   "locations": [
