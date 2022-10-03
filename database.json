@@ -2,13 +2,13 @@
   "users": [
     {
       "id": 1,
-      "name": "Justin Dority",
+      "name": "Karl Dandleton",
       "email": "jd@jd.com",
       "cityId": 1
     },
     {
       "id": 2,
-      "name": "Bub Williams",
+      "name": "Bobson Dugnutt",
       "email": "bub@bub.com",
       "cityId": 1
     },
@@ -26,27 +26,51 @@
     },
     {
       "email": "ms@fe.com",
-      "name": "Casey Reed",
+      "name": "Jeremy Eric",
       "cityId": 1,
       "id": 5
     },
     {
       "email": "wikka@k.k",
-      "name": "Kalvin G",
+      "name": "Kalvin Graham",
       "cityId": 1,
       "id": 6
     },
     {
       "email": "devin@website.com",
-      "name": "Devin",
+      "name": "Devin Kent",
       "cityId": 1,
       "id": 7
     },
     {
       "email": "fe@li.x",
-      "name": "Belix Key",
+      "name": "Thomas Malice",
       "cityId": 1,
       "id": 8
+    },
+    {
+      "email": "dw@dw.com",
+      "name": "Dwight Rortugal",
+      "cityId": 1,
+      "id": 9
+    },
+    {
+      "email": "wd@wd.com",
+      "name": "Willie Dustice",
+      "cityId": 1,
+      "id": 10
+    },
+    {
+      "email": "os@os.com",
+      "name": "Onson Sweemey",
+      "cityId": 1,
+      "id": 11
+    },
+    {
+      "email": "tb@tb.com",
+      "name": "Todd Bonzalez",
+      "cityId": 1,
+      "id": 12
     }
   ],
   "cities": [
@@ -68,15 +92,16 @@
       "game2Id": "G5pe4-MkPRV",
       "game3Id": "GBLLP-MkPpr",
       "challengeDate": "2022-09-29",
-      "accepted": false,
-      "id": 1
+      "accepted": true,
+      "id": 1,
+      "completedChallenges": []
     },
     {
       "challengerId": 5,
       "recipientId": 1,
       "locationId": 13670,
       "game1Id": "GR9Nr-Mz2dY",
-      "game2Id": "GK17D-MdEqz",
+      "game2Id": "Gryw4-MwNky",
       "game3Id": "GD7Ld-ME0BP",
       "challengeDate": "2022-09-29",
       "accepted": true,
@@ -88,7 +113,7 @@
       "recipientId": 2,
       "locationId": 10747,
       "game1Id": "Grlxe-MJ916",
-      "game2Id": "GYWBZ-MkPrr",
+      "game2Id": "G42PX-MyNXo",
       "game3Id": "G4dOQ-MyNbb",
       "challengeDate": "2022-09-15",
       "accepted": true,
@@ -110,8 +135,8 @@
       "challengerId": 5,
       "recipientId": 4,
       "locationId": 15037,
-      "game1Id": "GEL31-M61W3",
-      "game2Id": "GoEej-Mo1q0",
+      "game1Id": "G42PX-MyNXo",
+      "game2Id": "GrXEW-MDEwr",
       "game3Id": "GR6do-MLBq4",
       "challengeDate": "2022-09-15",
       "accepted": true,
@@ -156,23 +181,12 @@
       "challengerId": 2,
       "recipientId": 3,
       "locationId": 15037,
-      "game1Id": "GR6wO-MDvzk",
-      "game2Id": "GRWvz-MP37P",
+      "game1Id": "GrkL5-MLvrX",
+      "game2Id": "GrXEW-MDEwr",
       "game3Id": "Gr8xn-MKN66",
       "challengeDate": "2022-09-17",
       "accepted": false,
       "id": 9
-    },
-    {
-      "challengerId": 2,
-      "recipientId": 4,
-      "locationId": 8459,
-      "game1Id": "G5nz5-M3d38",
-      "game2Id": "GR9Nr-Mz2dY",
-      "game3Id": "GbPde-M5Rkv",
-      "challengeDate": "2022-09-20",
-      "accepted": false,
-      "id": 10
     },
     {
       "challengerId": 1,
@@ -182,8 +196,9 @@
       "game2Id": "G41do-MP3Py",
       "game3Id": "GrXy3-ML0Ey",
       "challengeDate": "2022-09-21",
-      "accepted": false,
-      "id": 11
+      "accepted": true,
+      "id": 11,
+      "completedChallenges": []
     },
     {
       "challengerId": 2,
@@ -201,12 +216,13 @@
       "challengerId": 1,
       "recipientId": 2,
       "locationId": 10747,
-      "game1Id": "G4jQw-MJ5rl",
+      "game1Id": "GR9Bx-MQkd5",
       "game2Id": "G4jQw-MJ5rl",
       "game3Id": "GR9o1-MQjj8",
       "challengeDate": "2022-09-21",
-      "accepted": false,
-      "id": 13
+      "accepted": true,
+      "id": 13,
+      "completedChallenges": []
     },
     {
       "challengerId": 2,
@@ -216,8 +232,9 @@
       "game2Id": "GRY2O-MLWdy",
       "game3Id": "G4qX5-Mz2Pp",
       "challengeDate": "2022-09-23",
-      "accepted": false,
-      "id": 14
+      "accepted": true,
+      "id": 14,
+      "completedChallenges": []
     },
     {
       "challengerId": 1,
@@ -251,8 +268,9 @@
       "game2Id": "G0l8P-M85d9",
       "game3Id": "G4dOQ-MkPxr",
       "challengeDate": "2022-09-20",
-      "accepted": false,
-      "id": 17
+      "accepted": true,
+      "id": 17,
+      "completedChallenges": []
     },
     {
       "challengerId": 8,
@@ -262,8 +280,280 @@
       "game2Id": "GR6d8-M1rZd",
       "game3Id": "G50Wr-MLeZP",
       "challengeDate": "2022-09-21",
+      "accepted": true,
+      "id": 18,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 5,
+      "recipientId": 2,
+      "locationId": 16127,
+      "game1Id": "G57X4-MLb1y",
+      "game2Id": "GRzNR-MLlEj",
+      "game3Id": "GrNWn-MQdqZ",
+      "challengeDate": "2022-09-22",
+      "accepted": true,
+      "id": 19,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 5,
+      "recipientId": 2,
+      "locationId": 14789,
+      "game1Id": "GR9Bx-MQkd5",
+      "game2Id": "GR9Nr-M5RxE",
+      "game3Id": "GvBQX-M0ody",
+      "challengeDate": "2022-09-23",
+      "accepted": true,
+      "id": 20,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 10747,
+      "game1Id": "G41do-MP3Py",
+      "game2Id": "GrXy3-ML0Ey",
+      "game3Id": "GrNpx-M2YZq",
+      "challengeDate": "2022-09-22",
+      "accepted": true,
+      "id": 22,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 8454,
+      "game1Id": "G4do5-MDlN7",
+      "game2Id": "GrEkZ-ML13O",
+      "game3Id": "G4X2l-MYepl",
+      "challengeDate": "2022-09-23",
+      "accepted": true,
+      "id": 23,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 10747,
+      "game1Id": "G4dOQ-MyNbb",
+      "game2Id": "GR9o1-MQjj8",
+      "game3Id": "GrNpx-M2YZq",
+      "challengeDate": "2022-09-23",
+      "accepted": true,
+      "id": 24,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 5,
+      "locationId": 8455,
+      "game1Id": "G41do-MP3Py",
+      "game2Id": "GweeP-MW95j",
+      "game3Id": "G4qxv-MJPyv",
+      "challengeDate": "2022-09-08",
       "accepted": false,
-      "id": 18
+      "id": 25
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 5,
+      "locationId": 13670,
+      "game1Id": "Grx8Y-MKNe9",
+      "game2Id": "G5nz5-M3d38",
+      "game3Id": "G5Wxd-MLxl3",
+      "challengeDate": "2022-09-29",
+      "accepted": false,
+      "id": 26
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 15037,
+      "game1Id": "G5VDd-MJpqO",
+      "game2Id": "GrqZX-MD15w",
+      "game3Id": "G4xZy-MLno6",
+      "challengeDate": "2022-09-29",
+      "accepted": true,
+      "id": 27,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 1,
+      "recipientId": 2,
+      "locationId": 10747,
+      "game1Id": "GR9o1-MQjj8",
+      "game2Id": "GrX7q-MD0yP",
+      "game3Id": "Grlxe-MJ916",
+      "challengeDate": "2022-10-01",
+      "accepted": true,
+      "id": 28,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 4,
+      "locationId": 8454,
+      "game1Id": "GrEkZ-ML13O",
+      "game2Id": "G5WBr-MvB3E",
+      "game3Id": "GrN7J-MJ78q",
+      "challengeDate": "2022-09-30",
+      "accepted": true,
+      "id": 29,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 6,
+      "locationId": 9244,
+      "game1Id": "GR7ZX-MQ23b",
+      "game2Id": "G4Obw-ML83d",
+      "game3Id": "Gryd3-MLqjd",
+      "challengeDate": "2022-09-22",
+      "accepted": true,
+      "id": 30,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 10747,
+      "game1Id": "G41do-MP3Py",
+      "game2Id": "GR9o1-MQjj8",
+      "game3Id": "G4jQw-MJ5rl",
+      "challengeDate": "2022-09-29",
+      "accepted": true,
+      "id": 31,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 15037,
+      "game1Id": "GrkL5-MLvrX",
+      "game2Id": "G43BW-M3dKV",
+      "game3Id": "G4xbP-Mp45Y",
+      "challengeDate": "2022-09-30",
+      "accepted": true,
+      "id": 32,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 10747,
+      "game1Id": "GrXy3-ML0Ey",
+      "game2Id": "GRBE4-MQK1Z",
+      "game3Id": "GrNpx-M2YZq",
+      "challengeDate": "2022-10-03",
+      "accepted": true,
+      "id": 33,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 10747,
+      "game1Id": "GR9o1-MQjj8",
+      "game2Id": "G4dOQ-MyNbb",
+      "game3Id": "GweeP-Ml9pZ-ARZoY",
+      "challengeDate": "2022-10-03",
+      "accepted": true,
+      "id": 34,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 1,
+      "recipientId": 9,
+      "locationId": 11677,
+      "game1Id": "G4dOQ-MkPxr",
+      "game2Id": "GRBE4-MQK1Z",
+      "game3Id": "G4qX5-MJN17",
+      "challengeDate": "2022-10-04",
+      "accepted": true,
+      "id": 35,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 10747,
+      "game1Id": "GweeP-Ml9pZ-ARZoY",
+      "game2Id": "GR9Bx-MQkd5",
+      "game3Id": "GrX7q-MD0yP",
+      "challengeDate": "2022-10-04",
+      "accepted": true,
+      "id": 36,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 9,
+      "recipientId": 6,
+      "locationId": 8455,
+      "game1Id": "GrNWn-MQdqZ",
+      "game2Id": "GRQKz-MyNXz",
+      "game3Id": "GR0KD-MJpnr",
+      "challengeDate": "2022-09-28",
+      "accepted": true,
+      "id": 37,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 9,
+      "recipientId": 8,
+      "locationId": 10747,
+      "game1Id": "Gzy89-MNEeO",
+      "game2Id": "GRWvz-Mp4yl",
+      "game3Id": "GrX7q-MD0yP",
+      "challengeDate": "2022-10-04",
+      "accepted": true,
+      "id": 38,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 1,
+      "recipientId": 8,
+      "locationId": 16127,
+      "game1Id": "GK17D-MdEqz",
+      "game2Id": "GrNWn-MQdqZ",
+      "game3Id": "GR9Nr-Mz2dY",
+      "challengeDate": "2022-10-05",
+      "accepted": false,
+      "id": 39
+    },
+    {
+      "challengerId": 1,
+      "recipientId": 9,
+      "locationId": 8454,
+      "game1Id": "GrEBz-MBR3N",
+      "game2Id": "GR6d8-M1rZd",
+      "game3Id": "G5D94-MLnXq",
+      "challengeDate": "2022-10-19",
+      "accepted": false,
+      "id": 40
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 1,
+      "locationId": 10747,
+      "game1Id": "Gzy89-MNEeO",
+      "game2Id": "G41do-MP3Py",
+      "game3Id": "GrX7q-MD0yP",
+      "challengeDate": "2022-10-04",
+      "accepted": true,
+      "id": 41,
+      "completedChallenges": []
+    },
+    {
+      "challengerId": 2,
+      "recipientId": 9,
+      "locationId": 8454,
+      "game1Id": "G41d5-MKNwX",
+      "game2Id": "G4ZVB-MJ5lE",
+      "game3Id": "G50Wr-MLeZP",
+      "challengeDate": "2022-10-05",
+      "accepted": false,
+      "id": 42
     }
   ],
   "completedChallenges": [
@@ -322,6 +612,820 @@
       "game2WinnerId": 3,
       "game3WinnerId": 3,
       "id": 8
+    },
+    {
+      "challengeId": 14,
+      "game1WinnerId": 5,
+      "game2WinnerId": 2,
+      "game3WinnerId": 5,
+      "id": 9
+    },
+    {
+      "challengeId": 5,
+      "game1WinnerId": 5,
+      "game2WinnerId": 5,
+      "game3WinnerId": 5,
+      "id": 10
+    },
+    {
+      "challengeId": 19,
+      "game1WinnerId": 5,
+      "game2WinnerId": 2,
+      "game3WinnerId": 5,
+      "id": 11
+    },
+    {
+      "challengeId": 20,
+      "game1WinnerId": 2,
+      "game2WinnerId": 2,
+      "game3WinnerId": 2,
+      "id": 12
+    },
+    {
+      "challengeId": 17,
+      "game1WinnerId": 2,
+      "game2WinnerId": 8,
+      "game3WinnerId": 2,
+      "id": 13
+    },
+    {
+      "challengeId": 22,
+      "game1WinnerId": 2,
+      "game2WinnerId": 2,
+      "game3WinnerId": 2,
+      "id": 14
+    },
+    {
+      "challengeId": 23,
+      "game1WinnerId": 2,
+      "game2WinnerId": 2,
+      "game3WinnerId": 2,
+      "id": 15
+    },
+    {
+      "challengeId": 24,
+      "game1WinnerId": 2,
+      "game2WinnerId": 2,
+      "game3WinnerId": 2,
+      "id": 16
+    },
+    {
+      "challengeId": 13,
+      "game1WinnerId": 2,
+      "game2WinnerId": 1,
+      "game3WinnerId": 2,
+      "id": 17
+    },
+    {
+      "challengeId": 28,
+      "game1WinnerId": 2,
+      "game2WinnerId": 1,
+      "game3WinnerId": 2,
+      "id": 18
+    },
+    {
+      "challengeId": 31,
+      "game1WinnerId": 1,
+      "game2WinnerId": 2,
+      "game3WinnerId": 2,
+      "id": 19
+    },
+    {
+      "challengeId": 32,
+      "game1WinnerId": 2,
+      "game2WinnerId": 2,
+      "game3WinnerId": 1,
+      "id": 20
+    },
+    {
+      "challengeId": 33,
+      "game1WinnerId": 1,
+      "game2WinnerId": 2,
+      "game3WinnerId": 2,
+      "id": 21
+    },
+    {
+      "challengeId": 34,
+      "game1WinnerId": 1,
+      "game2WinnerId": 2,
+      "game3WinnerId": 2,
+      "id": 22
+    },
+    {
+      "challengeId": 36,
+      "game1WinnerId": 2,
+      "game2WinnerId": 1,
+      "game3WinnerId": 1,
+      "id": 23
+    },
+    {
+      "challengeId": 35,
+      "game1WinnerId": 1,
+      "game2WinnerId": 9,
+      "game3WinnerId": 9,
+      "id": 24
+    },
+    {
+      "challengeId": 37,
+      "game1WinnerId": 6,
+      "game2WinnerId": 6,
+      "game3WinnerId": 6,
+      "id": 25
+    },
+    {
+      "challengeId": 30,
+      "game1WinnerId": 2,
+      "game2WinnerId": 6,
+      "game3WinnerId": 6,
+      "id": 26
+    },
+    {
+      "challengeId": 38,
+      "game1WinnerId": 8,
+      "game2WinnerId": 8,
+      "game3WinnerId": 8,
+      "id": 27
+    },
+    {
+      "challengeId": 11,
+      "game1WinnerId": 4,
+      "game2WinnerId": 4,
+      "game3WinnerId": 4,
+      "id": 28
+    },
+    {
+      "challengeId": 41,
+      "game1WinnerId": 2,
+      "game2WinnerId": 1,
+      "game3WinnerId": 1,
+      "id": 29
+    },
+    {
+      "challengeId": 29,
+      "game1WinnerId": 4,
+      "game2WinnerId": 4,
+      "game3WinnerId": 4,
+      "id": 30
+    }
+  ],
+  "notifications": [
+    {
+      "userId": 5,
+      "type": 1,
+      "open": true,
+      "challengeId": 25,
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "type": 3,
+      "open": true,
+      "challengeId": 9,
+      "id": 3
+    },
+    {
+      "userId": 5,
+      "type": 1,
+      "open": true,
+      "challengeId": 26,
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 26,
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 8
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 9
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 10
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 12
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 14
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 15
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 26,
+      "id": 18
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 26,
+      "id": 19
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 26,
+      "id": 20
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 26,
+      "id": 21
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 26,
+      "id": 22
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 26,
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "type": 1,
+      "open": false,
+      "challengeId": 27,
+      "id": 24
+    },
+    {
+      "userId": 2,
+      "type": 1,
+      "open": false,
+      "challengeId": 28,
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "type": 2,
+      "open": false,
+      "challengeId": 28,
+      "id": 26
+    },
+    {
+      "challengeId": 28,
+      "userId": 2,
+      "open": false,
+      "type": 5,
+      "id": 27
+    },
+    {
+      "userId": 1,
+      "type": 3,
+      "open": false,
+      "challengeId": 27,
+      "id": 28
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 27,
+      "id": 29
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 27,
+      "id": 30
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 27,
+      "id": 31
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 27,
+      "id": 32
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 27,
+      "id": 33
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 27,
+      "id": 34
+    },
+    {
+      "userId": 2,
+      "type": 2,
+      "open": false,
+      "challengeId": 27,
+      "id": 35
+    },
+    {
+      "userId": 4,
+      "type": 1,
+      "open": true,
+      "challengeId": 29,
+      "id": 36
+    },
+    {
+      "userId": 4,
+      "type": 3,
+      "open": true,
+      "challengeId": 29,
+      "id": 37
+    },
+    {
+      "userId": 6,
+      "type": 1,
+      "open": true,
+      "challengeId": 30,
+      "id": 38
+    },
+    {
+      "userId": 1,
+      "type": 1,
+      "open": false,
+      "challengeId": 31,
+      "id": 39
+    },
+    {
+      "userId": 2,
+      "type": 2,
+      "open": false,
+      "challengeId": 31,
+      "id": 40
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 31,
+      "id": 41
+    },
+    {
+      "challengeId": 31,
+      "userId": 1,
+      "open": false,
+      "type": 5,
+      "id": 42
+    },
+    {
+      "userId": 4,
+      "type": 3,
+      "open": true,
+      "challengeId": 29,
+      "id": 43
+    },
+    {
+      "userId": 4,
+      "type": 3,
+      "open": true,
+      "challengeId": 29,
+      "id": 44
+    },
+    {
+      "userId": 4,
+      "type": 3,
+      "open": true,
+      "challengeId": 29,
+      "id": 45
+    },
+    {
+      "userId": 4,
+      "type": 3,
+      "open": true,
+      "challengeId": 29,
+      "id": 46
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 26,
+      "id": 47
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 26,
+      "id": 48
+    },
+    {
+      "userId": 1,
+      "type": 3,
+      "open": false,
+      "challengeId": 27,
+      "id": 49
+    },
+    {
+      "userId": 1,
+      "type": 1,
+      "open": false,
+      "challengeId": 32,
+      "id": 50
+    },
+    {
+      "userId": 2,
+      "type": 2,
+      "open": false,
+      "challengeId": 32,
+      "id": 51
+    },
+    {
+      "challengeId": 32,
+      "userId": 2,
+      "open": false,
+      "type": 5,
+      "id": 52
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 53
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 54
+    },
+    {
+      "userId": 5,
+      "type": 3,
+      "open": true,
+      "challengeId": 25,
+      "id": 55
+    },
+    {
+      "userId": 1,
+      "type": 1,
+      "open": false,
+      "challengeId": 33,
+      "id": 56
+    },
+    {
+      "userId": 2,
+      "type": 2,
+      "open": false,
+      "challengeId": 33,
+      "id": 57
+    },
+    {
+      "challengeId": 33,
+      "userId": 1,
+      "open": false,
+      "type": 5,
+      "id": 58
+    },
+    {
+      "userId": 1,
+      "type": 1,
+      "open": false,
+      "challengeId": 34,
+      "id": 59
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 34,
+      "id": 60
+    },
+    {
+      "userId": 2,
+      "type": 2,
+      "open": false,
+      "challengeId": 34,
+      "id": 61
+    },
+    {
+      "challengeId": 34,
+      "userId": 1,
+      "open": false,
+      "type": 5,
+      "id": 62
+    },
+    {
+      "userId": 9,
+      "type": 1,
+      "open": false,
+      "challengeId": 35,
+      "id": 63
+    },
+    {
+      "userId": 9,
+      "type": 3,
+      "open": false,
+      "challengeId": 35,
+      "id": 64
+    },
+    {
+      "userId": 1,
+      "type": 1,
+      "open": false,
+      "challengeId": 36,
+      "id": 65
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 36,
+      "id": 66
+    },
+    {
+      "userId": 2,
+      "type": 2,
+      "open": false,
+      "challengeId": 36,
+      "id": 67
+    },
+    {
+      "challengeId": 36,
+      "userId": 1,
+      "open": false,
+      "type": 5,
+      "id": 68
+    },
+    {
+      "userId": 1,
+      "type": 2,
+      "open": false,
+      "challengeId": 35,
+      "id": 69
+    },
+    {
+      "challengeId": 35,
+      "userId": 1,
+      "open": false,
+      "type": 5,
+      "id": 70
+    },
+    {
+      "userId": 6,
+      "type": 1,
+      "open": true,
+      "challengeId": 37,
+      "id": 71
+    },
+    {
+      "userId": 8,
+      "type": 1,
+      "open": true,
+      "challengeId": 38,
+      "id": 72
+    },
+    {
+      "userId": 2,
+      "type": 2,
+      "open": false,
+      "challengeId": 30,
+      "id": 73
+    },
+    {
+      "userId": 9,
+      "type": 2,
+      "open": true,
+      "challengeId": 37,
+      "id": 74
+    },
+    {
+      "challengeId": 30,
+      "userId": 2,
+      "open": false,
+      "type": 5,
+      "id": 75
+    },
+    {
+      "userId": 9,
+      "type": 2,
+      "open": true,
+      "challengeId": 38,
+      "id": 76
+    },
+    {
+      "challengeId": 38,
+      "userId": 9,
+      "open": true,
+      "type": 5,
+      "id": 77
+    },
+    {
+      "userId": 1,
+      "type": 2,
+      "open": false,
+      "challengeId": 1,
+      "id": 78
+    },
+    {
+      "userId": 1,
+      "type": 2,
+      "open": false,
+      "challengeId": 11,
+      "id": 79
+    },
+    {
+      "userId": 8,
+      "type": 2,
+      "open": true,
+      "challengeId": 18,
+      "id": 80
+    },
+    {
+      "userId": 2,
+      "type": 2,
+      "open": false,
+      "challengeId": 29,
+      "id": 81
+    },
+    {
+      "challengeId": 11,
+      "userId": 1,
+      "open": false,
+      "type": 5,
+      "id": 82
+    },
+    {
+      "userId": 3,
+      "type": 3,
+      "open": true,
+      "challengeId": 9,
+      "id": 83
+    },
+    {
+      "userId": 8,
+      "type": 1,
+      "open": true,
+      "challengeId": 39,
+      "id": 84
+    },
+    {
+      "userId": 9,
+      "type": 1,
+      "open": true,
+      "challengeId": 40,
+      "id": 85
+    },
+    {
+      "userId": 1,
+      "type": 1,
+      "open": false,
+      "challengeId": 41,
+      "id": 86
+    },
+    {
+      "userId": 2,
+      "type": 3,
+      "open": false,
+      "challengeId": 41,
+      "id": 87
+    },
+    {
+      "userId": 2,
+      "type": 2,
+      "open": false,
+      "challengeId": 41,
+      "id": 88
+    },
+    {
+      "challengeId": 41,
+      "userId": 1,
+      "open": false,
+      "type": 5,
+      "id": 89
+    },
+    {
+      "userId": 9,
+      "type": 1,
+      "open": true,
+      "challengeId": 42,
+      "id": 90
+    },
+    {
+      "challengeId": 29,
+      "userId": 4,
+      "open": true,
+      "type": 5,
+      "id": 91
+    },
+    {
+      "userId": 9,
+      "type": 3,
+      "open": true,
+      "challengeId": 42,
+      "id": 92
+    },
+    {
+      "userId": 9,
+      "type": 3,
+      "open": true,
+      "challengeId": 42,
+      "id": 93
+    },
+    {
+      "userId": 9,
+      "type": 3,
+      "open": true,
+      "challengeId": 42,
+      "id": 94
+    },
+    {
+      "userId": 9,
+      "type": 3,
+      "open": true,
+      "challengeId": 42,
+      "id": 95
     }
   ],
   "locations": [
